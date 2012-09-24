@@ -38,3 +38,4 @@ It hooks the mouse clicks and detects to fast clicks in the specifed interval
 TODO
 ----
 * Remove link to "MSVCR100.DLL"
+* Add help command
