@@ -34,8 +34,11 @@ How it works
 ------------
 It hooks the mouse clicks and detects to fast clicks in the specifed interval
 
+Changelog
+---------
+* Removed link to "MSVCR100.DLL"
+* Changed to VS2005 project
 
 TODO
 ----
-* Remove link to "MSVCR100.DLL"
 * Add help command
